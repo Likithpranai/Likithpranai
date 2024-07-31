@@ -2,10 +2,4 @@
 
 <h1 align="center"">Hey there 👋🏼 </h1>
 
-
-
-
-
-
-
-I am a sophomore studying at The Hong Kong University of Science and Technology (HKUST), aspiring to become a software engineer with the aim of solving real-life problems easily and effectively using Artificial Intelligence. 
+I am a sophomore studying at The Hong Kong University of Science and Technology (HKUST), with a passion in Software Engineering. I aspire to use software technology to carry out tasks easily and efficiently for people. I have developed and enhanced my programmin skills over the summer break  
