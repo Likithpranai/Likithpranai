@@ -1,6 +1,6 @@
 ![Navy Blue Geometric Technology LinkedIn Banner](https://github.com/user-attachments/assets/4e105304-617a-4924-ae10-973a9ee62bd5)
 
-<h1 style="text-align:center">Hey there 👋🏼 </h1>
+<h1 align="center"">Hey there 👋🏼 </h1>
 
 
 
