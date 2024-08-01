@@ -33,7 +33,11 @@ I am a sophomore studying at The Hong Kong University of Science and Technology 
 <img align="left" alt="Python" width="40px" style="paddin-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
 <img align="left" alt="Python" width="40px" style="paddin-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
 <img align="left" alt="Python" width="40px" style="paddin-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
-          
+<br />
+
+--- 
+
+### Latest Projects
           
           
           
