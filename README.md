@@ -8,6 +8,7 @@ I am a sophomore studying at The Hong Kong University of Science and Technology 
 
 ### Languages/Tools
 
+<div align="left">
 <img align="left" alt="Python" width="40px" paddin-right="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="Python" width="40px" paddin-right="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" alt="Python" width="40px" paddin-right="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
@@ -22,7 +23,9 @@ I am a sophomore studying at The Hong Kong University of Science and Technology 
 <img align="left" alt="Python" width="40px" paddin-right="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
 <img align="left" alt="Python" width="40px" paddin-right="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 <img align="left" alt="Python" width="40px" paddin-right="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img align="left" alt="Python" padding-top="10px" width="40px" paddin-right="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
+</div>
+
+<img align="left" alt="Python" width="40px" paddin-right="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
 <img align="left" alt="Python" width="40px" paddin-right="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
           
           
