@@ -46,9 +46,9 @@ I am a sophomore studying at The Hong Kong University of Science and Technology 
     <td><img src="https://github.com/user-attachments/assets/1470a6b7-691c-4d0e-9804-6033abf2adf7" width="100%" height="200px" /></td>
   </tr>
   <tr>
-    <td>SpaceX Falcon 9 Launch Prediction.</td>
-    <td>NBA Outcome Predictor.</td>
-    <td>SHOPPER E-Commerce Website.</td>
+    <td style="text-align: center;">SpaceX Falcon 9 Launch Prediction.</td>
+    <td style="text-align: center;">NBA Outcome Predictor.</td>
+    <td style="text-align: center;">SHOPPER E-Commerce Website.</td>
   </tr>
 </table>
           
