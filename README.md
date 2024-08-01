@@ -39,18 +39,18 @@ I am a sophomore studying at The Hong Kong University of Science and Technology 
 
 ### Latest Projects
 
-<div style="display: flex; justify-content: space-between;">
+<div align="center">
   <div>
-    <img src="https://hips.hearstapps.com/hmg-prod/images/in-this-spacex-handout-image-a-falcon-9-rocket-carrying-the-news-photo-1591219555.jpg" style="width: 30%; height: 200px; object-fit: contain;" />
-    <p style="text-align: center; margin-top: 10px;">This is a SpaceX rocket launching into the sky.</p>
+    ![SpaceX Rocket](https://hips.hearstapps.com/hmg-prod/images/in-this-spacex-handout-image-a-falcon-9-rocket-carrying-the-news-photo-1591219555.jpg)
+    This is a SpaceX rocket launching into the sky.
   </div>
   <div>
-    <img src="https://www.logodesignlove.com/images/classic/nba-logo.jpg" style="width: 30%; height: 200px; object-fit: contain;" />
-    <p style="text-align: center; margin-top: 10px;">The iconic NBA logo is recognized worldwide.</p>
+    ![NBA Logo](https://www.logodesignlove.com/images/classic/nba-logo.jpg)
+    The iconic NBA logo is recognized worldwide.
   </div>
   <div>
-    <img src="https://github.com/user-attachments/assets/1470a6b7-691c-4d0e-9804-6033abf2adf7" style="width: 30%; height: 200px; object-fit: contain;" />
-    <p style="text-align: center; margin-top: 10px;">This is an image attached to a GitHub repository.</p>
+    ![GitHub Image](https://github.com/user-attachments/assets/1470a6b7-691c-4d0e-9804-6033abf2adf7)
+    This is an image attached to a GitHub repository.
   </div>
 </div>
           
