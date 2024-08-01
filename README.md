@@ -39,12 +39,10 @@ I am a sophomore studying at The Hong Kong University of Science and Technology 
 
 ### Latest Projects
 
-<div float="left" style="display: grid; grid-template-columns: 1fr 1fr; grid-gap: 20px;">
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); grid-gap: 20px;">
   <img src="https://hips.hearstapps.com/hmg-prod/images/in-this-spacex-handout-image-a-falcon-9-rocket-carrying-the-news-photo-1591219555.jpg" width="100%" />
-  <img src="https://www.logodesignlove.com/images/classic/nba-logo.jpg" width="100%" /> 
-  
-  ![image](https://github.com/user-attachments/assets/1470a6b7-691c-4d0e-9804-6033abf2adf7)
-
+  <img src="https://www.logodesignlove.com/images/classic/nba-logo.jpg" width="100%" />
+  <img src="https://github.com/user-attachments/assets/1470a6b7-691c-4d0e-9804-6033abf2adf7" width="100%" />
 </div>
           
           
