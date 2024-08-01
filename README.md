@@ -41,16 +41,16 @@ I am a sophomore studying at The Hong Kong University of Science and Technology 
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); grid-gap: 20px;">
   <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://hips.hearstapps.com/hmg-prod/images/in-this-spacex-handout-image-a-falcon-9-rocket-carrying-the-news-photo-1591219555.jpg" style="width: 30%; height: 200px; object-fit: contain; margin-bottom: 10px;" />
-    <h3 style="margin-top: 5px;">SpaceX Rocket</h3>
+    <img src="https://hips.hearstapps.com/hmg-prod/images/in-this-spacex-handout-image-a-falcon-9-rocket-carrying-the-news-photo-1591219555.jpg" style="width: 30%; height: 200px; object-fit: contain;" />
+    <h3 style="margin-top: 10px;">SpaceX Rocket</h3>
   </div>
   <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://www.logodesignlove.com/images/classic/nba-logo.jpg" style="width: 30%; height: 200px; object-fit: contain; margin-bottom: 10px;" />
-    <h3 style="margin-top: 5px;">NBA Logo</h3>
+    <img src="https://www.logodesignlove.com/images/classic/nba-logo.jpg" style="width: 30%; height: 200px; object-fit: contain;" />
+    <h3 style="margin-top: 10px;">NBA Logo</h3>
   </div>
   <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://github.com/user-attachments/assets/1470a6b7-691c-4d0e-9804-6033abf2adf7" style="width: 30%; height: 200px; object-fit: contain; margin-bottom: 10px;" />
-    <h3 style="margin-top: 5px;">GitHub Attachment</h3>
+    <img src="https://github.com/user-attachments/assets/1470a6b7-691c-4d0e-9804-6033abf2adf7" style="width: 30%; height: 200px; object-fit: contain;" />
+    <h3 style="margin-top: 10px;">GitHub Attachment</h3>
   </div>
 </div>
           
