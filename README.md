@@ -39,9 +39,18 @@ I am a sophomore studying at The Hong Kong University of Science and Technology 
 
 ### Latest Projects
 
-| ![SpaceX Rocket](https://hips.hearstapps.com/hmg-prod/images/in-this-spacex-handout-image-a-falcon-9-rocket-carrying-the-news-photo-1591219555.jpg?resize=30%,200px) | ![NBA Logo](https://www.logodesignlove.com/images/classic/nba-logo.jpg?resize=30%,200px) | ![GitHub Image](https://github.com/user-attachments/assets/1470a6b7-691c-4d0e-9804-6033abf2adf7?resize=30%,200px) |
-| --- | --- | --- |
-| This is a SpaceX rocket launching into the sky. | The iconic NBA logo is recognized worldwide. | This is an image attached to a GitHub repository. |
+<table>
+  <tr>
+    <td><img src="https://hips.hearstapps.com/hmg-prod/images/in-this-spacex-handout-image-a-falcon-9-rocket-carrying-the-news-photo-1591219555.jpg" width="30%" height="200px" /></td>
+    <td><img src="https://www.logodesignlove.com/images/classic/nba-logo.jpg" width="30%" height="200px" /></td>
+    <td><img src="https://github.com/user-attachments/assets/1470a6b7-691c-4d0e-9804-6033abf2adf7" width="30%" height="200px" /></td>
+  </tr>
+  <tr>
+    <td>This is a SpaceX rocket launching into the sky.</td>
+    <td>The iconic NBA logo is recognized worldwide.</td>
+    <td>This is an image attached to a GitHub repository.</td>
+  </tr>
+</table>
           
           
           
