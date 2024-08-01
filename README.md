@@ -39,7 +39,7 @@ I am a sophomore studying at The Hong Kong University of Science and Technology 
 
 ### Latest Projects
 
-| ![SpaceX Rocket](https://hips.hearstapps.com/hmg-prod/images/in-this-spacex-handout-image-a-falcon-9-rocket-carrying-the-news-photo-1591219555.jpg =30%x200) | ![NBA Logo](https://www.logodesignlove.com/images/classic/nba-logo.jpg =30%x200) | ![GitHub Image](https://github.com/user-attachments/assets/1470a6b7-691c-4d0e-9804-6033abf2adf7 =30%x200) |
+| ![SpaceX Rocket](https://hips.hearstapps.com/hmg-prod/images/in-this-spacex-handout-image-a-falcon-9-rocket-carrying-the-news-photo-1591219555.jpg?resize=30%,200px) | ![NBA Logo](https://www.logodesignlove.com/images/classic/nba-logo.jpg?resize=30%,200px) | ![GitHub Image](https://github.com/user-attachments/assets/1470a6b7-691c-4d0e-9804-6033abf2adf7?resize=30%,200px) |
 | --- | --- | --- |
 | This is a SpaceX rocket launching into the sky. | The iconic NBA logo is recognized worldwide. | This is an image attached to a GitHub repository. |
           
