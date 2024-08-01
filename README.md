@@ -8,7 +8,7 @@ I am a sophomore studying at The Hong Kong University of Science and Technology 
 
 ### Languages/Tools
 
-<div align="left">
+<div align="left" margin-bottom="10px">
 <img align="left" alt="Python" width="40px" paddin-right="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="Python" width="40px" paddin-right="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" alt="Python" width="40px" paddin-right="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
