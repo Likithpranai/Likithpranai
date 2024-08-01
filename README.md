@@ -28,7 +28,7 @@ I am a sophomore studying at The Hong Kong University of Science and Technology 
 
 ### Currently Learning
 
-<img align="left" align="left" alt="Python" width="40px" style="paddin-right:10px background-color:white" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
+<img align="left" align="left" alt="Python" width="40px" style="paddin-right:10px bg-color:white" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
           
           
           
