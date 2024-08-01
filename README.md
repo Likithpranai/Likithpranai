@@ -41,9 +41,9 @@ I am a sophomore studying at The Hong Kong University of Science and Technology 
 
 <table>
   <tr>
-    <td><img src="https://hips.hearstapps.com/hmg-prod/images/in-this-spacex-handout-image-a-falcon-9-rocket-carrying-the-news-photo-1591219555.jpg" width="30%" height="200px" /></td>
-    <td><img src="https://www.logodesignlove.com/images/classic/nba-logo.jpg" width="30%" height="200px" /></td>
-    <td><img src="https://github.com/user-attachments/assets/1470a6b7-691c-4d0e-9804-6033abf2adf7" width="30%" height="200px" /></td>
+    <td><img src="https://hips.hearstapps.com/hmg-prod/images/in-this-spacex-handout-image-a-falcon-9-rocket-carrying-the-news-photo-1591219555.jpg" width="1000%" height="200px" /></td>
+    <td><img src="https://www.logodesignlove.com/images/classic/nba-logo.jpg" width="1000%" height="200px" /></td>
+    <td><img src="https://github.com/user-attachments/assets/1470a6b7-691c-4d0e-9804-6033abf2adf7" width="100%" height="200px" /></td>
   </tr>
   <tr>
     <td>This is a SpaceX rocket launching into the sky.</td>
