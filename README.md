@@ -41,7 +41,7 @@ I am a sophomore studying at The Hong Kong University of Science and Technology 
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); grid-gap: 20px;">
   <img src="https://hips.hearstapps.com/hmg-prod/images/in-this-spacex-handout-image-a-falcon-9-rocket-carrying-the-news-photo-1591219555.jpg" style="width: 30%; height: 200px; object-fit:   contain; padding: 10px;" />
-  <img src="https://www.logodesignlove.com/images/classic/nba-logo.jpg" style="width: 30%; height: 200px; object-fit: contain; padding: 10px;" />
+  <img src="https://www.logodesignlove.com/images/classic/nba-logo.jpg" style="width: 30%; height: 200px; object-fit: contain; padding: 10px;" alt="SpaceX Falcon 9 Prediction" />
   <img src="https://github.com/user-attachments/assets/1470a6b7-691c-4d0e-9804-6033abf2adf7" style="width: 30%; height: 200px; object-fit: contain; padding: 10px;" />
 </div>
           
