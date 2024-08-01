@@ -2,4 +2,4 @@
 
 <h1 align="center"">Hey there 👋🏼 </h1>
 
-I am a sophomore studying at The Hong Kong University of Science and Technology (HKUST), with a passion in Software Engineering. I aspire to use software technology to carry out tasks easily and efficiently for people. I have developed and enhanced my programmin skills over the summer break  
+I am a sophomore studying at The Hong Kong University of Science and Technology (HKUST), with a passion for Software Engineering. I aspire to use software technology to help people carry out tasks easily and efficiently. I have developed and enhanced my programming skills over the summer break. All my coding projects are built from the ground up, from planning and designing all the way to solving problems with code. Each project has a detailed description of the step-by-step procedures taken and instructions on how to navigate through the GitHub repository.
