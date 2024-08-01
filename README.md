@@ -8,6 +8,6 @@ I am a sophomore studying at The Hong Kong University of Science and Technology 
 
 ### Languages/Tools
 
-<img align="left" alt="Python" width="50px" paddin-right="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="Python" width="40px" paddin-right="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
           
