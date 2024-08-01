@@ -41,11 +41,11 @@ I am a sophomore studying at The Hong Kong University of Science and Technology 
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); grid-gap: 20px;">
   <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://hips.hearstapps.com/hmg-prod/images/in-this-spacex-handout-image-a-falcon-9-rocket-carrying-the-news-photo-1591219555.jpg" style="width: 20%; height: 200px; object-fit: contain; margin-bottom: 10px;" />
+    <img src="https://hips.hearstapps.com/hmg-prod/images/in-this-spacex-handout-image-a-falcon-9-rocket-carrying-the-news-photo-1591219555.jpg" style="width: 30%; height: 200px; object-fit: contain; margin-bottom: 10px;" />
     <p style="margin-top: 10px; text-align: center;">SpaceX Rocket</p>
   </div>
   <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://www.logodesignlove.com/images/classic/nba-logo.jpg" style="width: 20%; height: 200px; object-fit: contain; margin-bottom: 10px;" />
+    <img src="https://www.logodesignlove.com/images/classic/nba-logo.jpg" style="width: 30%; height: 200px; object-fit: contain; margin-bottom: 10px;" />
     <p style="margin-top: 10px; text-align: center;">NBA Logo</p>
   </div>
   <div style="display: flex; flex-direction: column; align-items: center;">
